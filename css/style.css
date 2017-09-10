@@ -1,0 +1,20 @@
+body {
+    background-color: #ff99ff;
+}
+body {
+  margin: 50px 100px 100px 100px;
+}
+div.scroll {
+background-color: #ff99ff;
+width: 1000px;
+height: 100px;
+overflow: scroll;
+}
+div.content {
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
